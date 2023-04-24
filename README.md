@@ -1,5 +1,5 @@
 # DS-P4-Anticipez-les-besoins-en-consommation-de-batiments
-# Titre du projet pour le portfolio : "Anticipation des besoins en consommation électrique de bâtiments pour atteindre la neutralité carbone"
+# Titre du projet: "Anticipation des besoins en consommation électrique de bâtiments pour atteindre la neutralité carbone"
 
 ## Introduction
 Ce projet a été réalisé dans le cadre de ma formation en data science sur OpenClassrooms. Le projet numéro 4 consistait à aider la ville de Seattle à atteindre son objectif de ville neutre en émissions de carbone en 2050, en étudiant la consommation et les émissions des bâtiments non destinés à l’habitation.
